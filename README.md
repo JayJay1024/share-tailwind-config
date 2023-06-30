@@ -2,7 +2,7 @@
 
 ### Install and Init
 
-```bash
+```shell
 $ npm install -D tailwindcss postcss autoprefixer -w a
 $ npm install -D tailwindcss postcss autoprefixer -w b
 $ npm install -D tailwindcss postcss autoprefixer -w c
